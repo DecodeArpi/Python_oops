@@ -115,6 +115,7 @@ obj_courses.subject()
 obj_courses.teaching()
 obj_courses.study()
 obj_courses.display()
+#new comment
 
 obj_student = student()
 obj_student.study()
