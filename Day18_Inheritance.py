@@ -120,4 +120,3 @@ obj_student = student()
 obj_student.study()
 obj_student.display()
 #obj_student.teaching()
-#this is for demo purpose
